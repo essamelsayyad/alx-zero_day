@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 #!/bin/basih
-echo "The school is open!"
-
-=======
-#!/bin/bash
-echo "The school is open!"
->>>>>>> update_script
+echo "Alx school is open!"
+echo "The School"
